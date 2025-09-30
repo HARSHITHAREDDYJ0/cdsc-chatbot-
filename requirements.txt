@@ -3,5 +3,8 @@ sentence-transformers==3.0.1
 scikit-learn==1.5.1
 numpy==2.1.1
 gunicorn
+<<<<<<< HEAD
 torch
 transformers
+=======
+>>>>>>> ddd3188 (Add runtime.txt and update requirements for Railway deployment)
