@@ -1,6 +1,7 @@
-# Enhanced Requirements with Sentence Transformers
 Flask==3.1.2
 sentence-transformers==3.0.1
 scikit-learn==1.5.1
 numpy==2.1.1
-gunicorn==21.2.0
+gunicorn
+torch
+transformers
